@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    background-color: var(--color-primary);
+    padding: 10px 35px;
+}
+
+.header-wrapper a{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    
+    color: var(--color-black);
+}
+
+.header-wrapper a span{
+    font-size: 20px;
+    font-weight: bold;
+}
