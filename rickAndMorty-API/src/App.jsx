@@ -10,7 +10,6 @@ export default function App() {
     <>
       <Header/>
       <Main/>
-      <Card/>
       <SectionCharacters/>
     </>
   )
