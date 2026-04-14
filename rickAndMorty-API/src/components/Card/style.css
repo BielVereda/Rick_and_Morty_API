@@ -17,6 +17,13 @@
     border-radius: 50px;
 }
 
+.card-characters h3{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
 .card-characters h3, .description-characters li{
     color: var(--color-white);
 }
@@ -32,9 +39,8 @@
     gap: 10px;
 }
 
-.card-characters h3{
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
-    margin: 0 auto;
+.description-characters img{
+    width: 24px;
+    height: 24px;
 }
+
