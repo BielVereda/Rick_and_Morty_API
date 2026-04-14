@@ -1,0 +1,24 @@
+.container-cards-characters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.section-characters h2{
+    text-align: center;
+    margin-bottom: 40px;
+    padding-top: 60px;
+    font-size: 40px;
+    font-weight: bold;
+    color: var(--color-white);
+}
+
+.section-characters h2 span{
+    color: var(--color-primary);
+}
+
+.section-characters{
+    background-color: var(--color-l-black);
+}
