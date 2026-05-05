@@ -15,8 +15,8 @@ export const Main = () => {
                 <h1>Bem-vindos ao <span>consumo de API</span> do Rick and Morty</h1>
                 <p>Aqui você encontra informações sobre os personagens de Rick and Morty.</p>
                 <div className="container-btn-main">
-                    <a className="btn-primary" href="">Veja Agora</a>
-                    <a className="btn-secondary" href="">Saiba Mais</a>
+                    <a className="btn-primary" href="https://github.com/BielVereda/Rick_and_Morty_API.git" target="_blank" rel="noopener noreferrer">Veja Agora</a>
+                    <a className="btn-secondary" href="https://rickandmortyapi.com/" target="_blank" rel="noopener noreferrer">Saiba Mais</a>
                 </div>
             </div>
         </main>
