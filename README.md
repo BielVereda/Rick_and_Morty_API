@@ -13,7 +13,8 @@ O projeto foi criado como exercício de aprendizado junto com meu professor, com
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
-
+**Link do projeto:** https://rick-and-morty-api-vereda.vercel.app/
+---
 ## 📂 Estrutura do projeto
 ```
 Rick_and_Morty_API/
